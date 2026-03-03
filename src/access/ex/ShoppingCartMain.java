@@ -21,4 +21,8 @@ public class ShoppingCartMain {
 
         cart.displayItems();
     }
+
+    static int a(){
+        return 0;
+    }
 }

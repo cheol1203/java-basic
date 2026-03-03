@@ -24,6 +24,7 @@ public class ShoppingCart {
             }
         }
         System.out.println("전체 가격 합:" + calculateTotalPrice());
+        System.out.println(ShoppingCartMain.a());
     }
 
     private int calculateTotalPrice(){
